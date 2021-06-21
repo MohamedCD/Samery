@@ -4,13 +4,13 @@
 # Other important technologies
 -JavaScript\
 -HTML\
--CSS with SASS\
+-CSS with SASS
 
 # Honorable mentions
 -React Hooks\
 -React Higher-Order Components\
 -React API\
--Firebase Auth API\
+-Firebase Auth API
 
 # Web Page
 [Samery](samery-a6f22.web.app)
@@ -25,7 +25,7 @@
 -Protected Routes\
 -Realtime Database\
 -Users Management in realtime\
--API TMDB\
+-API TMDB
 
 
 # Getting Started with Create React App
