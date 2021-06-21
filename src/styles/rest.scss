@@ -1,0 +1,45 @@
+*{
+    padding: 20;
+    margin: 20;
+  }
+  
+  body {
+    background: linear-gradient(to right, #b92b27, #1565c0);
+    font-family: "Source Sans Pro", sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .home{
+    width: 100%;
+  }
+  
+  a{
+    text-decoration: none;
+    color: white;
+  }
+  
+  :root {
+    --primary: #032541;
+    --secondary: #21d07a;
+    --white: #fff;
+  }
+  
+  .container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: border-box;
+  }
+  
+  
+  input:focus {
+    outline: none;
+  }
