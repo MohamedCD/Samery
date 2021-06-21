@@ -2,30 +2,30 @@
 <img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100"><img src="https://img.icons8.com/color/452/firebase.png" width="100">
 
 # Other important technologies
--JavaScript
--HTML
--CSS with SASS
+-JavaScript\
+-HTML\
+-CSS with SASS\
 
 # Honorable mentions
--React Hooks
--React Higher-Order Components
--React API
--Firebase Auth API
+-React Hooks\
+-React Higher-Order Components\
+-React API\
+-Firebase Auth API\
 
 # Web Page
 [Samery](samery-a6f22.web.app)
 
 # Features
--Login
--SignIn
--SignOut
--Forms Handling
--Session Handling
--Password Change and Reset
--Protected Routes
--Realtime Database
--Users Management in realtime
--API TMDB
+-Login\
+-SignIn\
+-SignOut\
+-Forms Handling\
+-Session Handling\
+-Password Change and Reset\
+-Protected Routes\
+-Realtime Database\
+-Users Management in realtime\
+-API TMDB\
 
 
 # Getting Started with Create React App
