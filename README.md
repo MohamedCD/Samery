@@ -1,6 +1,6 @@
 # Used technologies 
-<img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100">
-<img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonos8.es%2Ficon%2F62452%2Ffirebase&psig=AOvVaw0StVlvk1IW15WnjCettxjO&ust=1624357690498000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCODcxIzCqPECFQAAAAAdAAAAABAJ" width="100">
+
 
 [Samery](samery-a6f22.web.app)
 
