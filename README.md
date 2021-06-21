@@ -1,5 +1,6 @@
 # User technologies 
-<img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100"><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es" width="100">
+<img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100" height="100"><img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png?hl=es" width="100" height="100">
+
 
 
 
