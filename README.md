@@ -1,5 +1,5 @@
 # Principal technologies 
-<img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100"><img src="https://img.icons8.com/color/452/firebase.png" width="100">
+<a href="https://es.reactjs.org/"> <img src="https://user-images.githubusercontent.com/45308318/122747712-ab3b2800-d28b-11eb-9113-39d32bdac1ed.png" width="100"> </a> <a href="https://firebase.google.com/?hl=es"><img src="https://img.icons8.com/color/452/firebase.png" width="100"></a>
 
 # Other important technologies
 -JavaScript\
